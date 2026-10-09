@@ -1,0 +1,26 @@
+PASS | Empty store
+PASS | Group trim
+PASS | Duplicate group
+PASS | Blank group
+PASS | Long group
+PASS | Student reference
+PASS | Unknown group
+PASS | Blank name
+PASS | Search case insensitive
+PASS | Search no match
+PASS | Increasing IDs
+PASS | Empty average
+PASS | Average
+PASS | Grade below limit
+PASS | Grade above limit
+PASS | Unknown student
+PASS | Empty subject
+PASS | Reload student count
+PASS | Reload grade count
+PASS | Cyrillic persistence
+PASS | Backup created
+PASS | Three modules
+PASS | Menu up wraps
+PASS | Menu down wraps
+PASS | Invalid references rejected
+TOTAL: 25 passed, 0 failed

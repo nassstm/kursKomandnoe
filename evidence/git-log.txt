@@ -1,0 +1,21 @@
+*   cfd84c5 (HEAD -> main, master) Merge validated final changes
+|\  
+| * 8b9c6f1 (final) Fix compiler scope and Windows build encoding
+* | 44cf66a Integrate final console project into master
+|\| 
+| * 4142aa8 Add integrated checks and runnable demonstration
+| *   0caf091 Merge feature/grades into final
+| |\  
+| | * 2249724 (feature/grades) Implement grades menu feature
+| |/  
+|/|   
+| *   802efba Merge feature/students into final
+| |\  
+| | * 2dd31d6 (feature/students) Implement students menu feature
+| |/  
+|/|   
+| * 57b030d Merge feature/groups into final
+|/| 
+| * cc93d10 (feature/groups) Implement groups menu feature
+|/  
+* ab33501 Create console foundation and coursework structure
